@@ -42,7 +42,7 @@ I am a passionate Programmer and highly curious about tech.
 <br/>
 
 <h3 align="left">Github Stats :</h3>
-<p align="left">
+<p align="center">
   <a href="https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight" target="_blank" rel="noreferrer">
     <img src="https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight" alt="GitHub Streak" />
   </a>
@@ -52,7 +52,7 @@ I am a passionate Programmer and highly curious about tech.
  
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight" alt="Pawan's GitHub stats" />
-</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" /></p>
+</p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" /></p>
 
 
 
