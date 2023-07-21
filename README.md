@@ -40,14 +40,12 @@ I am a passionate Programmer and highly curious about tech.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 </a>
 <br/>
-<div>
+
 <h3 align="left">Github Stats :</h3>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight)](https://git.io/streak-stats)
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" /></p>
-</div>
 
-<br/>
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/coderpawan_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Pawan-codechef" height="30" width="40" /></a>
