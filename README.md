@@ -7,6 +7,7 @@ I am a passionate Programmer and highly curious about tech.
 * Pronouns : He/Him
 * Reach me : shahanepawan511@gmail.com
 
+<br/>
 <h3 align="left">Skills:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -35,7 +36,8 @@ I am a passionate Programmer and highly curious about tech.
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 </a>
-
+<br/>
+<h3 align="left">Github Stats :</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight)](https://git.io/streak-stats)
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight)
