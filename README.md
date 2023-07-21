@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=9AFFD8&center=true&width=435&lines=Welcome+to+Pawan's+repo....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=66FFB2&center=true&width=435&lines=Welcome+to+Pawan's+repo....)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, This is Pawan 👋</h1>
 
