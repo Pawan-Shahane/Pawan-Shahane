@@ -1,13 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=4AFFA0&center=true&width=435&lines=Welcome+to+Pawan's+repo....)](https://git.io/typing-svg)
 
-<p align="left">  <img align = "right" src="https://komarev.com/ghpvc/?username=Pawan-Shahane&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan-profile-views" /> </p> 
+<p align="left"> 
+   <img align = "right" src="https://komarev.com/ghpvc/?username=Pawan-Shahane&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan-profile-views" /> 
+</p> 
 
 <h1 align="center">Hi, This is Pawan 👋</h1>
 
+<p>
 I am a passionate Programmer and highly curious about tech.
 * Currently Involved in Web Development
 * Pronouns : He/Him
 * Reach me : shahanepawan511@gmail.com
+</p>
 
 <br/>
 <h3 align="left">Skills:</h3>
@@ -42,9 +46,9 @@ I am a passionate Programmer and highly curious about tech.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 </a>
 
+<br/>
+<br/>
 
-<br/>
-<br/>
 <h3 align="left">Github Stats :</h3>
 <p align="left">
   <a href="https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight" target="_blank" rel="noreferrer">
@@ -54,18 +58,24 @@ I am a passionate Programmer and highly curious about tech.
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight" alt="Pawan's GitHub stats" />
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" />
 </p>
 
 <br/>
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/coderpawan_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Pawan-codechef" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shahanepawan511?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamvyavhare2" height="30" width="40" /></a>
-<a href="https://leetcode.com/Pawan-leetcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamm_v" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shahanepawan511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamvyavhare30/profile" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/coderpawan_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Pawan-codechef" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/shahanepawan511?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Pawan-hackerrank" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/Pawan-leetcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pawan-leetcode" height="30" width="40" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/shahanepawan511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Pawan-GFG" height="30" width="40" />
+</a>
 </p>
 
 <br/>
 <h3 align="left">Connect Me:</h3>
-<a href="www.linkedin.com/in/pawan-shahane-194486224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-vyavhare-180472206" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/pawan-shahane-194486224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pawan-Shahane-Linkedin" height="30" width="40" />
+</a>
