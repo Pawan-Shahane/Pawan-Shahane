@@ -10,6 +10,7 @@ I am a passionate Programmer and highly curious about tech.
 * Reach me : shahanepawan511@gmail.com
 
 <br/>
+<br/>
 <h3 align="left">Skills:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
