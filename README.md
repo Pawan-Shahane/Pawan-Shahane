@@ -6,12 +6,10 @@
 
 <h1 align="center">Hi, This is Pawan 👋</h1>
 
-<div>
 I am a passionate Programmer and highly curious about tech.
-  <p> -Currently Involved in Web Development</p>
-  <p> -Pronouns: He/Him</p>
-  <p> -Reach me: shahanepawan511@gmail.com</p>
-</div>
+* Currently Involved in Web Development
+* Pronouns : He/Him
+* Reach me : shahanepawan511@gmail.com
 
 
 <br/>
