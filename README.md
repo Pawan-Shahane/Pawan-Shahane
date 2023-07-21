@@ -42,9 +42,24 @@ I am a passionate Programmer and highly curious about tech.
 <br/>
 
 <h3 align="left">Github Stats :</h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight)](https://git.io/streak-stats)
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" /></p>
+<p align="left">
+  <a href="https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight" target="_blank" rel="noreferrer">
+    <img src="https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight" alt="Pawan's GitHub stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan-Shahane&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 
 <br/>
