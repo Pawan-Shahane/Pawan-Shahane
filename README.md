@@ -42,7 +42,7 @@ I am a passionate Programmer and highly curious about tech.
 <br/>
 
 <h3 align="left">Github Stats :</h3>
-<p align="center">
+<p align="left">
   <a href="https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight" target="_blank" rel="noreferrer">
     <img src="https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight" alt="GitHub Streak" />
   </a>
