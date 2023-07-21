@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=4AFFA0&center=true&width=435&lines=Welcome+to+Pawan's+repo....)](https://git.io/typing-svg)
 
-<p align="left">  <img align = "right" src="https://komarev.com/ghpvc/?username=Pawan-Shahane&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamm-v" /> </p> 
+<p align="left">  <img align = "right" src="https://komarev.com/ghpvc/?username=Pawan-Shahane&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan-profile-views" /> </p> 
 
 <h1 align="center">Hi, This is Pawan 👋</h1>
 
@@ -51,15 +51,11 @@ I am a passionate Programmer and highly curious about tech.
     <img src="https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
-
-
- 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight" alt="Pawan's GitHub stats" />
-</p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" /></p>
-
-
-
+</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" />
+</p>
 
 <br/>
 <h3 align="left">Coding Profiles:</h3>
