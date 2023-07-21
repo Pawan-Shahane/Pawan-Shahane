@@ -2,5 +2,5 @@
 
 # Hi, This is Pawan 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=dark)](https://git.io/streak-stats)
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight)](https://git.io/streak-stats)
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight)
