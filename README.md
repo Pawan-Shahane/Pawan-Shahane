@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=E835F7FF&center=true&width=435&lines=Welcome+to+Pawan's+repo....)](https://git.io/typing-svg)
+
 
 <h1 align="center">Hi 👋, This is Pawan Shahane</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=E835F7FF&center=true&width=435&lines=Welcome+to+Pawan's+repo....)](https://git.io/typing-svg)
 I am a passionate Programmer and highly curious about tech.
 * Currently Involved in Web Development
 * Pronouns : He/Him
