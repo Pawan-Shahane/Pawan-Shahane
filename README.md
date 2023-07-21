@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=66FFB2&center=true&width=435&lines=Welcome+to+Pawan's+repo....)](https://git.io/typing-svg)
 
+<p align="left">  <img align = "right" src="https://komarev.com/ghpvc/?username=Pawan-Shahane&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamm-v" /> </p> 
+
 <h1 align="center">Hi, This is Pawan 👋</h1>
 
 I am a passionate Programmer and highly curious about tech.
