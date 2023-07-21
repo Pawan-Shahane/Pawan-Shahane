@@ -45,3 +45,17 @@ I am a passionate Programmer and highly curious about tech.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight)](https://git.io/streak-stats)
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" /></p>
+
+
+<br/>
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/coderpawan_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Pawan-codechef" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shahanepawan511?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamvyavhare2" height="30" width="40" /></a>
+<a href="https://leetcode.com/Pawan-leetcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamm_v" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shahanepawan511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamvyavhare30/profile" height="30" width="40" /></a>
+</p>
+
+<br/>
+<h3 align="left">Connect Me:</h3>
+<a href="www.linkedin.com/in/pawan-shahane-194486224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-vyavhare-180472206" height="30" width="40" /></a>
