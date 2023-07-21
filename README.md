@@ -46,7 +46,7 @@ I am a passionate Programmer and highly curious about tech.
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" /></p>
 
-
+<br/>
 <br/>
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
