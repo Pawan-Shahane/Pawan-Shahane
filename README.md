@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=E835F7FF&center=true&width=435&lines=Welcome+to+Pawan's+repo....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans+serif&weight=500&size=25&duration=6000&pause=1000&color=9AFFD8&center=true&width=435&lines=Welcome+to+Pawan's+repo....)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, This is Pawan 👋</h1>
 
@@ -40,13 +40,13 @@ I am a passionate Programmer and highly curious about tech.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 </a>
 <br/>
+<div>
 <h3 align="left">Github Stats :</h3>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight)](https://git.io/streak-stats)
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" /></p>
+</div>
 
-<br/>
 <br/>
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
