@@ -4,3 +4,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Pawan-Shahane&theme=tokyonight)](https://git.io/streak-stats)
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawan-Shahane&show_icons=true&theme=tokyonight)
+p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pawan-Shahane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pawan-Shahane" /></p>
