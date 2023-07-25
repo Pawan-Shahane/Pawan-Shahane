@@ -4,7 +4,6 @@
    <img align = "right" src="https://komarev.com/ghpvc/?username=Pawan-Shahane&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan-profile-views" /> 
 </p> 
 
-
 <h1 align="center">Hi, This is Pawan 👋</h1>
 
 I am a passionate Programmer and highly curious about tech.
