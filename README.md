@@ -73,6 +73,8 @@ I am a passionate Programmer and highly curious about tech.
 </a>
 <a href="https://auth.geeksforgeeks.org/user/shahanepawan511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Pawan-GFG" height="30" width="40" />
 </a>
+<a href="https://profile.codingninjas.com/63406d0a-5512-4e57-b00b-6274af2fd297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Pawan-GFG" height="30" width="40" />
+</a>
 </p>
 
 <br/>
