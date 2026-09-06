@@ -79,5 +79,4 @@ I am a passionate AI engineer and highly curious about tech.
 
 <br/>
 <h3 align="left">Connect Me:</h3>
-<a href="www.linkedin.com/in/pawan-shahane-194486224" target="blank"><img align="center" src="https://www.linkedin.com/in/pawan-shahane-194486224/" alt="Pawan-Shahane-Linkedin" height="30" width="40" />
-</a>
+<a href="www.linkedin.com/in/pawan-shahane-194486224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pawan-Shahane-Linkedin" height="30" width="40" /></a>
