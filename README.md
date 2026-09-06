@@ -7,10 +7,21 @@
 
 <h1 align="center">Hi, This is Pawan 👋</h1>
 
-I am a passionate AI engineer and highly curious about tech.
+I am a passionate AI engineer and highly curious about tech working at Findability Sciences (US based AI company company)
 * Currently working in Agentic AI and Gen AI space
 * Pronouns : He/Him
-* Reach me : pawan.rajendra.shahane@gmail.com 
+* Reach me : pawan.rajendra.shahane@gmail.com
+  
+<h3 align="left">Connect Me:</h3>
+<a href="https://www.linkedin.com/in/pawan-shahane-194486224/" target="_blank">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="some-person-Linkedin"
+    height="30"
+    width="40"
+  />
+</a>
 
 
 <br/>
@@ -78,13 +89,3 @@ I am a passionate AI engineer and highly curious about tech.
 </p>
 
 <br/>
-<h3 align="left">Connect Me:</h3>
-<a href="https://www.linkedin.com/in/pawan-shahane-194486224/" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="some-person-Linkedin"
-    height="30"
-    width="40"
-  />
-</a>
